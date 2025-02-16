@@ -29,7 +29,7 @@
 
 - 📫 Feel free to reach me out **davidmorales33.97@gmail.com**
 
-- 🏠 Don't hesitate to check out me on Linkedin –  [demcv]( www.linkedin.com/in/demcv ) my username!
+- 🏠 Don't hesitate to check out me on Linkedin – **www.linkedin.com/in/demcv**!
 <!--Intro end-->
 
 <!--- stats & Trophy (start) -->

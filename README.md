@@ -32,10 +32,10 @@
   <table align="center">
   <tr border="none">
     <td width="50%" align="center">
-      <img align="center" alt="Coding" width="45%" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">   
+      <img align="center" alt="Coding" width="80%" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">   
     </td>
     <td width="50%" align="center">
-      <img  align="center" width="45%" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=david-morales-33&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+      <img  align="center" width="80%" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=david-morales-33&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
     </td>
   </tr>
   </table>

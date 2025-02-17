@@ -9,7 +9,7 @@
   </ul>
 </div>
 
-<img align="center" alt="Coding" width="100%" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
+<img align="center" alt="Coding" width="70%" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 <!--h2 without bottom border-->
 <!--<div id="user-content-toc">
   <ul align="center">
@@ -34,12 +34,7 @@
 
 <!--- stats & Trophy (start) -->
 <p align="center">
-  <!--- stats (start) -->
-<table align="center">
-<tr border="none">
-    <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=david-morales-33&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
-</tr>
-</table>
+    <img  align="center" width="50%" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=david-morales-33&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
 </p>        
 <!--- stats (end) -->
 

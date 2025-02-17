@@ -9,7 +9,7 @@
   </ul>
 </div>
 
-
+<img align="center" alt="Coding" width="300" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 <!--h2 without bottom border-->
 <!--<div id="user-content-toc">
   <ul align="center">
@@ -38,7 +38,7 @@
 <table align="center">
 <tr border="none">
   <td width="50%" align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=david-morales-33&show_icons=true&theme=dark&locale=en" />
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?username=david-morales-33&show_icons=true&theme=dark&locale=en" />
   </td>
   <td width="50%" align="center">
     <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=david-morales-33&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>

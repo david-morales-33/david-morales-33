@@ -1,22 +1,17 @@
-
 <!--horizontal divider(gradiant)-->
 <!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
     <summary><h1 style="display: inline-block">Hi 👋, I'm David Morales</h1></summary>
   </ul>
 </div>
-
-<img align="center" alt="Coding" width="70%" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 <!--h2 without bottom border-->
 <!--<div id="user-content-toc">
   <ul align="center">
     <summary><h2 style="display: inline-block">Confusion is part of Programming</h2></summary>
   </ul>
 </div>
-
 
 <!--Intro start-->
 - 🔭 I’m currently working on **AWS, Express and Spring boot**
@@ -34,11 +29,18 @@
 
 <!--- stats & Trophy (start) -->
 <p align="center">
-    <img  align="center" width="50%" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=david-morales-33&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  <table align="center">
+  <tr border="none">
+    <td width="50%" align="center">
+      <img align="center" alt="Coding" width="45%" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">   
+    </td>
+    <td width="50%" align="center">
+      <img  align="center" width="45%" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=david-morales-33&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+    </td>
+  </tr>
+  </table>
 </p>        
 <!--- stats (end) -->
-
-
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
@@ -51,7 +53,6 @@
     <img src="https://skillicons.dev/icons?i=java,spring,maven,js,ts,nodejs,express,npm,jest,postgres,mongodb,html,css,react,redux,git,aws,docker,kubernetes,redis,linux,postman,vscode,idea,cpp,arduino&perline=14" />
   </a>
 </p>
-
 
 <!-- Connect with me -->
 <!--h2 without bottom border-->
@@ -68,8 +69,6 @@
 <a href="davidmorales33.97@gmail.com" target="blank"><img align="center" src="" alt="gmail" height="50" width="50" /></a>
   
 </p>
-
-
 <!--profile visit count-->
 <!--<div align="center">
   

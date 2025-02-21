@@ -1,18 +1,8 @@
-<!--horizontal divider(gradiant)-->
-<!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
     <summary><h1 style="display: inline-block">Hi 👋, I'm David Morales</h1></summary>
   </ul>
 </div>
-<!--h2 without bottom border-->
-<!--<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Confusion is part of Programming</h2></summary>
-  </ul>
-</div>
-
 <!--Intro start-->
 - 🔭 I’m currently working on **AWS, Express and Spring boot**
 
@@ -69,17 +59,5 @@
 <a href="davidmorales33.97@gmail.com" target="blank"><img align="center" src="" alt="gmail" height="50" width="50" /></a>
   
 </p>
-<!--profile visit count-->
-<!--<div align="center">
-  
-[![](https://visitcount.itsvg.in/api?id=1010nishant&icon=3&color=6)](https://visitcount.itsvg.in)
-  
-</div>
 
 
-<!--horizontal divider(gradiant)-->
-
-<!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-----------------------------------------------------------------------
-Credit: [1010nishant](https://github.com/1010nishant)

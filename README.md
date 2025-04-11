@@ -18,6 +18,7 @@
 <!--Intro end-->
 
 <!--- stats & Trophy (start) -->
+<!--
 <p align="center">
   <table align="center">
   <tr border="none">
@@ -29,7 +30,8 @@
     </td>
   </tr>
   </table>
-</p>        
+</p>      
+
 <!--- stats (end) -->
 <!--h1 without bottom border-->
 <div id="user-content-toc">

@@ -3,7 +3,7 @@
     <summary><h1 style="display: inline-block">Hi 👋, I'm David Morales</h1></summary>
   </ul>
 </div>
-<!--Intro start-->
+
 - 🔭 I’m currently working on **AWS, Express and Spring boot**
 
 - 🌱 I’m currently learning **to put together multiple services for Scalable Applications.**

@@ -18,7 +18,7 @@
 <!--Intro end-->
 
 <!--- stats & Trophy (start) -->
-<!--
+
 <p align="center">
   <table align="center">
   <tr border="none">

@@ -41,7 +41,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven,js,ts,nodejs,express,npm,jest,postgres,mongodb,html,css,react,redux,git,aws,docker,kubernetes,redis,debian,ubuntu,linux,postman,vscode,idea,cpp,arduino,python&perline=14" />
+    <img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven,js,ts,nodejs,express,npm,jest,postgres,mongodb,react,redux,git,aws,docker,kubernetes,redis,debian,ubuntu,linux,postman,vscode,idea,cpp,arduino,python&perline=14" />
   </a>
 </p>
 
